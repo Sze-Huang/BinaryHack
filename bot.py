@@ -1,11 +1,11 @@
-import telebot
-import time
-import googl
+# import telebot
+# import time
+# import googl
 import urllib
 import configparser
 from lxml.html import fromstring
 from requests import get
-from telebot import types
+# from telebot import types
 from urllib.parse import urlencode, urlparse, parse_qs
  
 
